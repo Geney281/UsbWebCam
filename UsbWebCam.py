@@ -1,7 +1,7 @@
 import cv2 # opencv
 import sys # Parámetros y funciones específicos del sistema
 
-cap = cv2.VideoCapture(0) # Crear objeto VideoCapture
+cap = cv2.VideoCapture(1) # Crear objeto VideoCapture
 
 
 
